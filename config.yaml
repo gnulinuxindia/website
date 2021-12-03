@@ -1,9 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "GNU/Linux India"
 theme: "hugo-xmin"
-googleAnalytics: ""
-disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
 
@@ -29,8 +27,8 @@ menu:
       url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- 2021 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "A website by and for linux and free software enthusiasts from India."
+  footer: "Copyleft ;)"
 
 markup:
   highlight:
