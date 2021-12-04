@@ -17,11 +17,11 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Projects
+      url: "projects/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: Blog
+      url: "blog/"
       weight: 4
     - name: Subscribe
       url: "index.xml"
