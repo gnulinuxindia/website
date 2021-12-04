@@ -1,11 +1,10 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title | markdownify }}</h1>
-
+<img src="/images/tux_with_india_flag.png" style="max-width:15%;min-width:40px;float:right;" alt="indiantux" />
 {{ .Content }}
 
 <ul>
-  {{ $pages := .Pages }}
+  {{ $pages := .Site.RegularPages }}
   {{ range (where $pages "Section" "!=" "") }}
   <li>
     <span class="date">{{ .Date.Format "2006/01/02" }}</span>
