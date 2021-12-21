@@ -12,7 +12,7 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: ""
+      url: "/"
       weight: 1
     - name: About
       url: "about/"
