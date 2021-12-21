@@ -1,6 +1,6 @@
 ---
 title: "How to contribute to the website"
-date: 2021-12-20T21:19:10+05:30
+date: 2021-12-20T22:19:10+05:30
 draft: false
 ---
 
